@@ -1,0 +1,9 @@
+{
+  "name": "1688 采购数据 MCP",
+  "version": "1.0.0",
+  "description": "连接 1688 平台获取实时采购数据",
+  "author": "Utopia Hub",
+  "type": "mcp",
+  "endpoints": ["价格查询", "供应商评级", "最小起订量"],
+  "dataFormat": "JSON"
+}

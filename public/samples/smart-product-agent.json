@@ -1,0 +1,9 @@
+{
+  "name": "智能选品 Agent",
+  "version": "1.0.0",
+  "description": "帮助商家快速筛选热销品类的 AI Agent",
+  "author": "Utopia Hub",
+  "type": "agent",
+  "capabilities": ["数据分析", "趋势预测", "品类推荐"],
+  "platforms": ["淘宝", "1688", "速卖通"]
+}

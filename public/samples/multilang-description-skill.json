@@ -1,0 +1,9 @@
+{
+  "name": "多语言商品描述 Skill",
+  "version": "1.0.0",
+  "description": "自动生成多语言商品标题和描述",
+  "author": "Utopia Hub",
+  "type": "skill",
+  "languages": ["en", "es", "fr", "de", "ja", "ko"],
+  "features": ["标题优化", "SEO关键词", "本地化适配"]
+}
